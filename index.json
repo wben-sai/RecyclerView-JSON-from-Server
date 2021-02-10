@@ -1,0 +1,47 @@
+{
+    "posts": 
+    [
+        {
+          "title": "Title",
+          "title2": "Title2",
+          "title3": "Title3",
+          "title4": "Title4",
+          "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img1.png"
+        },
+        {
+            "title": "Title",
+            "title2": "Title2",
+            "title3": "Title3",
+            "title4": "Title4",
+            "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img2.png"
+        },
+        {
+            "title": "Title",
+            "title2": "Title2",
+            "title3": "Title3",
+            "title4": "Title4",
+            "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img3.png"
+        },
+        {
+            "title": "Title",
+            "title2": "Title2",
+            "title3": "Title3",
+            "title4": "Title4",
+            "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img1.png"
+        },
+        {
+        "title": "Title",
+        "title2": "Title2",
+        "title3": "Title3",
+        "title4": "Title4",
+        "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img2.png"
+        },
+        {
+        "title": "Title",
+        "title2": "Title2",
+        "title3": "Title3",
+        "title4": "Title4",
+        "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img3.png"
+        }
+    ]
+}
