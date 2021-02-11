@@ -2,42 +2,42 @@
     "posts": 
     [
         {
-          "title": "Title",
+          "title": "Title1",
           "title2": "Title2",
           "title3": "Title3",
           "title4": "Title4",
           "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img1.png"
         },
         {
-            "title": "Title",
+            "title": "Title2",
             "title2": "Title2",
             "title3": "Title3",
             "title4": "Title4",
             "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img2.png"
         },
         {
-            "title": "Title",
+            "title": "Title3",
             "title2": "Title2",
             "title3": "Title3",
             "title4": "Title4",
             "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img3.png"
         },
         {
-            "title": "Title",
+            "title": "Title4",
             "title2": "Title2",
             "title3": "Title3",
             "title4": "Title4",
             "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img1.png"
         },
         {
-        "title": "Title",
+        "title": "Title5",
         "title2": "Title2",
         "title3": "Title3",
         "title4": "Title4",
         "thumbnail": "https://raw.githubusercontent.com/wben-sai/RecyclerView-JSON-from-Server/main/img2.png"
         },
         {
-        "title": "Title",
+        "title": "Title6",
         "title2": "Title2",
         "title3": "Title3",
         "title4": "Title4",
